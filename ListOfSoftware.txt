@@ -1,0 +1,6 @@
+## List of useful software:
+
+Virtualbox
+
+Audacity
+
