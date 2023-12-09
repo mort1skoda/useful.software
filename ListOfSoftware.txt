@@ -1,6 +1,5 @@
 ## List of useful software:
 
-Virtualbox
-
 Audacity
-
+Autohotkey
+Virtual Box
